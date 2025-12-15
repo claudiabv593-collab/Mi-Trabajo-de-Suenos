@@ -1,3 +1,5 @@
+console.log("JS CARGADO OK");
+
 const contenedor = document.getElementById("contenedorNoticias");
 const btn = document.getElementById("btnRefrescar");
 
