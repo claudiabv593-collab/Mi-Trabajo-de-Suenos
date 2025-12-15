@@ -1,0 +1,144 @@
+<<<<<<< HEAD
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 6rem;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(105, 8, 108);
+    border: 2rem solid rgb(0, 0, 0);
+}
+
+.formula1{
+
+    width: 25%;
+    margin: 0 auto; 
+    border: 2px solid rgb(50, 109, 1);
+    padding: 20px;
+    border-radius: 15px;
+    background-color: rgb(132, 216, 149);
+}
+
+.formula1 fieldset{
+    border: none;   
+
+}
+
+    #formulario{
+        text-align: center;
+        font-size: 2rem;
+        font-family:  sans-serif;
+        color: rgb(7, 37, 106);
+        
+    }
+
+.Campos{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2 rem;
+    font-size: 1.8 rem;
+    font-family:  sans-serif;
+}
+
+.Campos label{
+        text-align: center;
+}       
+
+.Campo input[type="text"]{
+    
+    background-color: rgb(183, 123, 236);
+}
+
+.Campo input[type="email"]{
+    
+    background-color: rgb(97, 161, 203);
+}
+
+
+.Campo textarea{
+    height: 100px;
+    font-size: 1.6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(178, 87, 77);
+}
+
+.formula1 button{
+    font-size: 2rem;
+    background-color: rgb(41, 70, 215);
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    width: 70%;
+    cursor: pointer;
+    border: none;
+=======
+/* Selector por ID */
+#titulo {
+    background-color: #08366b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Selector por clase */
+.descripcion {
+    width: 80%;
+    margin: 20px auto;
+    background: #e9f5ff;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+/* Subtítulo */
+.subtitulo {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10%;
+}
+
+/* Lista con estilo */
+.lista-razones {
+    background: #b28ff1;
+    width: 60%;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 10px auto;
+}
+
+/* Tabla */
+.tabla {
+    width: 80%;
+    margin: 25px auto;
+    border-collapse: collapse;
+    background: #ffffff;
+}
+
+.tabla th {
+    background-color: #1483ea;
+    padding: 10px;
+}
+
+.tabla td {
+    border: 1px solid #131212;
+    padding: 10px;
+}
+
+.spanq {
+    color: #ff5733;
+}
+/* Imagen con width y height */
+.imagen {
+    display: block;
+    width: 400px;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+>>>>>>> cef2eb2043b76a9341657444d459ce37e7ea4ecb
+}
