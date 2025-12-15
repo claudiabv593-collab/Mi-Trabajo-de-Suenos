@@ -3,7 +3,7 @@ console.log("JS CARGADO OK");
 const contenedor = document.getElementById("contenedorNoticias");
 const btn = document.getElementById("btnRefrescar");
 
-const API = "https://gnews.io/api/v4/top-headlines?token=551bf90578da390840fee6fd9fe21332&lang=es";
+const API = "noticias.json";
 
 async function cargarNoticias() {
     contenedor.innerHTML = "<p>Cargando noticias...</p>";

@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Nueva tecnología impulsa el desarrollo web",
+      "description": "El uso de APIs y Fetch facilita aplicaciones dinámicas.",
+      "url": "https://example.com/noticia1"
+    },
+    {
+      "title": "JavaScript sigue siendo el lenguaje más usado",
+      "description": "Fetch y APIs REST son clave en aplicaciones modernas.",
+      "url": "https://example.com/noticia2"
+    }
+  ]
+}
